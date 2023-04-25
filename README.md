@@ -21,3 +21,8 @@ To run the application, use the following command:
 
 ```uvicorn src.main:app --reload``` 
 (reload flag will provide automatic reload)
+
+Documentation
+-------------
+
+Once application is running you can checkout the fastapi auto-generated docs at http://localhost:8000/docs (or whatever port you are running the application in)
