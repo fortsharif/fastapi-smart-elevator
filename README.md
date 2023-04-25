@@ -11,7 +11,7 @@ It is recommended to use a virtual environment and install the required packages
 ```
 python -m venv venv
 source venv/Script/activate
-pip install -r requirements/base.txt
+pip install -r requirements.txt
 ```
 
 Usage
